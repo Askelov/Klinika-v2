@@ -26,6 +26,10 @@
  - ukoliko se prijavimo kao uposlenik (user:uposleni pw:uposleni) mozemo samo primiti pacijenta, eventualno kreirat mu karton
  
      <img src="/screenshots/uposleni1.JPG" width="600"/>
+     
+ - ukoliko se prijavi pacijent (user:pacijent pw:pacijent) moze da vidi kako je spasen u klinici i pogledati raspored pregleda
+ 
+     <img src="/screenshots/pacijent1.JPG" width="600"/>
  
  
   
