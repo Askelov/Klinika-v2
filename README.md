@@ -15,9 +15,13 @@
  
   	 <img src="/screenshots/slika1.JPG" width="200"/>
  
- - ukoliko se prijavimo kao admin (user: admin pw:admin) mozemo dodavati uposlene, pacijente, kreirati kartone i dobijati izvjestaj na osnovu cijele klinke
+ - ukoliko se prijavimo kao admin (user:admin pw:admin) mozemo dodavati uposlene, pacijente, kreirati kartone i dobijati izvjestaj na osnovu cijele klinke
  
      <img src="/screenshots/admin1.JPG" width="600"/>
+     
+  - ukoliko se prijavimo kao doktor (user:doktor pw:doktor) mozemo pregledati karton pacijenta te registrovati pregled
+ 
+     <img src="/screenshots/doktor1.JPG" width="600"/>
  
  
   
