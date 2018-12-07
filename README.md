@@ -22,6 +22,10 @@
   - ukoliko se prijavimo kao doktor (user:doktor pw:doktor) mozemo pregledati karton pacijenta te registrovati pregled
  
      <img src="/screenshots/doktor1.JPG" width="600"/>
+
+ - ukoliko se prijavimo kao uposlenik (user:uposleni pw:uposleni) mozemo samo primiti pacijenta, eventualno kreirat mu karton
+ 
+     <img src="/screenshots/uposleni1.JPG" width="600"/>
  
  
   
