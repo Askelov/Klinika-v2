@@ -17,7 +17,7 @@
  
  - ukoliko se prijavimo kao admin (user: admin pw:admin) mozemo dodavati uposlene, pacijente, kreirati kartone i dobijati izvjestaj na osnovu cijele klinke
  
-     <img src="/screenshots/slika1.JPG" width="600"/>
+     <img src="/screenshots/admin1.JPG" width="600"/>
  
  
   
