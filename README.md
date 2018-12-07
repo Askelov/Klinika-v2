@@ -14,4 +14,10 @@
  - prijava (pacijent, admin, doktor, uposlenik)
  
   	 <img src="/screenshots/slika1.JPG" width="200"/>
+ 
+ - ukoliko se prijavimo kao admin (user: admin pw:admin) mozemo dodavati uposlene, pacijente, kreirati kartone i dobijati izvjestaj na osnovu cijele klinke
+ 
+     <img src="/screenshots/slika1.JPG" width="600"/>
+ 
+ 
   
