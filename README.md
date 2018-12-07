@@ -30,6 +30,10 @@
  - ukoliko se prijavi pacijent (user:pacijent pw:pacijent) moze da vidi kako je spasen u klinici i pogledati raspored pregleda
  
      <img src="/screenshots/pacijent1.JPG" width="600"/>
+     
+ - odjava
+ 
+     <img src="/screenshots/odjava1.JPG" width="200"/>
  
  
   
